@@ -4,7 +4,7 @@
 Este projeto teve como objetivo gerar um artigo utilizando ferramentas de IA. O artigo conta a história de Cicero, um personagem do jogo Skyrim.
 <div align="center">
   <p>
-    <img src="./assets/capa.png" width="200"/>
+    <img src="./assets/capa.png" width="700"/>
   </p>
   <a href="./article.md" title="View PDF"> CLIQUE AQUI PARA LER</a>
 </div>
